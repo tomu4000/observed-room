@@ -244,8 +244,8 @@ function createHangingLight() {
 
 function createOutlet() {
   // 左壁に貼り付いた感じのコンセント
-  const x = width * 0.145;
-  const y = height * 0.715;
+  const x = width * 0.110;
+  const y = height * 0.680;
   const w = width * 0.018;
   const h = height * 0.042;
   const skew = width * 0.010;
